@@ -17,5 +17,6 @@ echo 'Database Connected successfully';
     </head>
     <body>
     <!-- Test -->
+    Hola!
     </body>
 </html>
